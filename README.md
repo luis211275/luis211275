@@ -5,16 +5,16 @@ Soy estudiante de **primero de DAW** e iniciándome en el mundo de la programaci
 
 ---
 
-### 🛠️ Mis Proyectos en curso
+### 🛠️ Proyectos en uso
 
 * **[Programacion_IJ](https://github.com/Luis211275/Programacion_IJ)**
-    * Lenguaje principal: Java.
+    * Primeros ejercicios en java y primer juego.
 * **[MPO-Ampliacion_Programacion](https://github.com/Luis211275/MPO-Ampliacion_Programacion)**
-    * Repositorio para la entrega de tareas y de proyectos prácticos de la asignatura de Ampliación de Programación.
+    * Repositorio para la entrega de tareas presentadas en clase de ampliacion de programación
 * **[Euler](https://github.com/Luis211275/Euler)**
-    * Resolución de problemas y algoritmos en Java.
+    * Resolución de problemas presentados en la pagina Project Euler
 * **[MI-REPOSITORIO](https://github.com/Luis211275/MI-REPOSITORIO)**
-    * Espacio de pruebas y proyectos personales.
+    * Zona de pruebas
 
 ---
 
