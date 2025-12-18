@@ -1,7 +1,9 @@
 #Bienvenido al perfil de Luis
-###Sobre Mi
+##Sobre Mi
 Estudiante de primero de DAW e iniciando en el mundo de la programacion
 
+##Proyectos en curso
+https://github.com/Luis211275/MPO-Ampliacion_Programacion
 <!--
 **luis211275/luis211275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
