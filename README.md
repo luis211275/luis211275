@@ -11,9 +11,9 @@ Soy estudiante de **primero de DAW** e iniciándome en el mundo de la programaci
     * Primeros ejercicios en java y primer juego.
 * **[MPO-Ampliacion_Programacion](https://github.com/Luis211275/MPO-Ampliacion_Programacion)**
     * Repositorio para la entrega de tareas presentadas en clase de ampliacion de programación
-* **[Euler](https://github.com/Luis211275/Euler)**
+* **[Proyecto Intermodular](https://github.com/luis211275/Proyecto-Intermodular)**
     * Resolución de problemas presentados en la pagina Project Euler
-* **[MI-REPOSITORIO](https://github.com/Luis211275/MI-REPOSITORIO)**
+* **[No intermodular Java](https://github.com/luis211275/MPO-Trabajo-F-tbol)**
     * Zona de pruebas
 
 ---
