@@ -1,43 +1,29 @@
-# 🚀 Bienvenido, Soy Luis!!
+# 🚀 ¡Hola! Soy Luis
 
 ### 👨‍💻 Sobre Mí
-Soy estudiante de **primero de DAW** e iniciándome en el mundo de la programación. Actualmente enfocado en aprender las bases del desarrollo y la lógica de programación.
+Estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)**. Actualmente estoy construyendo una base sólida en fundamentos de programación y lógica, centrado especialmente en el ecosistema Java.
 
 ---
 
-### 🛠️ Proyectos en uso
+### 🛠️ Proyectos en Desarrollo
 
 * **[Programacion_IJ](https://github.com/Luis211275/Programacion_IJ)**
-    * Primeros ejercicios en java y primer juego.
+    * *Fundamentos de Java:* Primeros ejercicios de lógica y desarrollo de mi primer juego.
 * **[MPO-Ampliacion_Programacion](https://github.com/Luis211275/MPO-Ampliacion_Programacion)**
-    * Repositorio para la entrega de tareas presentadas en clase de ampliacion de programación
+    * *Entregas Académicas:* Repositorio para la gestión de tareas presentadas en el módulo de ampliación de programación.
 * **[Proyecto Intermodular](https://github.com/luis211275/Proyecto-Intermodular)**
-    * Resolución de problemas presentados en la pagina Project Euler
-* **[No intermodular Java](https://github.com/luis211275/MPO-Trabajo-F-tbol)**
-    * Zona de pruebas
+    * *Lógica y Algoritmia:* Resolución de retos matemáticos y de computación del sitio [Project Euler](https://projecteuler.net/).
+* **[MPO-Trabajo-Fútbol](https://github.com/luis211275/MPO-Trabajo-F-tbol)**
+    * *Laboratorio:* Zona de pruebas y experimentación en Java.
 
 ---
 
-### 📚 Tecnologías en las que trabajo
-* **Lenguajes:** Java
-* **IDE:** IntelliJ IDEA y visual studio
-* **Control de Versiones:** Git & GitHub
+### 📚 Tecnologías y Herramientas
+* **Lenguajes:** `Java`
+* **IDE:** `IntelliJ IDEA`, `Visual Studio Code`
+* **Control de Versiones:** `Git` & `GitHub`
 
 ---
 
 ### 📫 Contacto
 * **GitHub:** [Luis211275](https://github.com/Luis211275)
-<!--
-**luis211275/luis211275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
